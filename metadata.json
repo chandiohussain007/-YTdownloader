@@ -1,0 +1,6 @@
+{
+  "name": "Media Downloader",
+  "description": "A YouTube video and audio downloader with Firebase Auth, yt-dlp, and FFmpeg for high-quality extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
